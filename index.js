@@ -18,7 +18,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["🎮 Hry","🎧 Spotify","🍿 Netflix", "🩵 AccZone.cz"];
+const statusMessages = ["🎮 🎧 🍿 🩵"];
 
 
 let currentIndex = 0;
