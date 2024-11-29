@@ -18,7 +18,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Teď tisknu peníze, nemám čas."];
+const statusMessages = ["https://acczone.cz"];
 
 
 let currentIndex = 0;
