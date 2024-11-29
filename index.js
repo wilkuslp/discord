@@ -18,7 +18,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["https://acczone.cz"];
+const statusMessages = ["🎮 Hry","🎧 Spotify","🍿 Netflix", "🩵 AccZone.cz"];
 
 
 let currentIndex = 0;
